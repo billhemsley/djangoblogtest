@@ -1,6 +1,6 @@
 *.pyc
 __pycache__
-venvone
+/venvone
 db.sqlite3
 /static
 .DS_Store
